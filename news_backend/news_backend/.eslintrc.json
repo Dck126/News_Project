@@ -1,0 +1,28 @@
+{
+  "env": {
+    "commonjs": true,
+    "es2021": true,
+    "node": true
+  },
+  "extends": "airbnb-base",
+  "parserOptions": {
+    "ecmaVersion": "latest"
+  },
+  "rules": {
+    "linebreak-style": 0,
+    "no-console": "off",
+    "no-underscore-dangle": "off",
+    "import/no-extraneous-dependencies": "off",
+    "class-methods-use-this": "off",
+    "camelcase": "off",
+    "object-curly-newline": "off",
+    "operator-linebreak": "off",
+    "comma-dangle": "off",
+    "new-cap": "off"
+  }
+}
+// if u want use ES module import
+// export default ...
+// import ... from ...
+// "import/no-import-module-exports": "off",
+// "import/extensions": "always"
