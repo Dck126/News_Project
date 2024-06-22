@@ -2,12 +2,14 @@ News Webiste Project (Built with NodeJs, Hapi.dev for Backend and ReactJs for Fr
 
 
 How Run this Project
+
 """"""""""""""""""""""""""""""
 
 npm install
+
 """"""""""""""""""""""""""""""
 
 npm start
+
 """"""""""""""""""""""""""""""
 
-if there are problems in coding let me know (dickypratama823@gmail.com)
